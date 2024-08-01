@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Jennings</title>
+    <link>https://danieljennings.dev/</link>
+    <description>Recent content on Daniel Jennings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 16:49:12 -0500</lastBuildDate>
+    <atom:link href="https://danieljennings.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work Personality</title>
+      <link>https://danieljennings.dev/posts/work-personality/</link>
+      <pubDate>Thu, 01 Aug 2024 16:49:12 -0500</pubDate>
+      <guid>https://danieljennings.dev/posts/work-personality/</guid>
+      <description>Work Personality Profile&#xA;Tests and Strengths&#xA;Myers Briggs - ISTP Prefers explicit and practical advice and conversation Detail-oriented HEXACO Honesty-Humility - High Emotionality - Medium Extraversion - Medium Agreeableness - High Conscientiousness - High Openness - High Leadership Style - Democratic Focuses on building strengths and gaining consensus Good with constructive criticism Clifton StrengthsFinder - Strategic Thinking Absorbing and analyzing information for optimal team decisions Chronotype - Dolphin Best work between 9am-1pm Needs structured environments Multi-potentialite Interdisciplinary, curious and cognitively flexible Prefers learning environment Weaknesses</description>
+    </item>
+    <item>
+      <title>Hard Skills</title>
+      <link>https://danieljennings.dev/posts/hard-skills/</link>
+      <pubDate>Thu, 01 Aug 2024 16:44:23 -0500</pubDate>
+      <guid>https://danieljennings.dev/posts/hard-skills/</guid>
+      <description>Data and Programming Skills&#xA;Data Science and Scientific Computing Skills Data Cleaning and Manipulation e.g. Excel and Google Sheets Manipulation of Large Datasets Experience with Data Visualization tools e.g. Tableau and PowerBI Basic Proficiency with Databases and Data Management Systems e.g. MySQL Strong quantitivative skills Statistical knowledge and techniques Mathematical knowledge and techniques Predictive Analytics and Data Modelling Problem-solving and critical thinking abilities for problem identification Understanding of machine learning techniques and algorithms Data Proficiency - Entry, Collection, Cleaning and Presentation Data Verification and Quality Control Data-Driven Decision Making Program Testing and Debugging Programming Languages Python (Scripting, Pandas, Numpy, Matplotlib, Cartopy, Xarray, Scikit-Learn, Scipy, Jupyter Notebook, Pycharm) HTML/CSS R C (Basic proficiency) Git (Basic Proficiency) Node (Basic Proficiency) Linux (Basic Proficiency) Javascript (Basic Proficiency) Program Testing and Debugging SWOT analysis Web analytics Programs/Software Related</description>
+    </item>
+    <item>
+      <title>Soft Skills</title>
+      <link>https://danieljennings.dev/posts/soft-skills/</link>
+      <pubDate>Thu, 01 Aug 2024 16:41:37 -0500</pubDate>
+      <guid>https://danieljennings.dev/posts/soft-skills/</guid>
+      <description>Problem-solving&#xA;Critical thinking Analysis Lateral thinking/Creativity Logical Reasoning Persistence Observation Brainstorming Planning Goal-setting Evaluation Deductive Reasoning Strategic thinking Work ethic&#xA;Discipline Integrity Responsibility Initiative Self-awareness Commitment Professionalism Organization&#xA;Attention to detail Record keeping Analytical thinking Perceptiveness Proactivity Communication&#xA;Mutual respect Active listening Verbal communication Written communication Constructive feedback Friendliness Awareness Open-mindedness Teamwork&#xA;Conflict management Listening Collaboration Mediation Idea Exchange Cooperation Coordination Encouragement Adaptability&#xA;Flexibility Curiosity Growth Mindset Self-management Optimism Resilience Quick learning Reliability Interpersonal Skills</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://danieljennings.dev/posts/about-me/</link>
+      <pubDate>Thu, 01 Aug 2024 16:08:09 -0500</pubDate>
+      <guid>https://danieljennings.dev/posts/about-me/</guid>
+      <description>Bio/Summary&#xA;My name is Daniel Jennings. I engage in quantitative and organizational work that helps people to solve their problems.&#xA;I am a competent worker who believes in rigorous analysis to ease and automate any process. I have a passion for science, art, music, culture and travel. I am always learning, and I love a good problem-solving challenge. While I am currently working to attain credentials in Data Science and Computational Science, I ultimately wish to synthesize my passions in my career.</description>
+    </item>
+  </channel>
+</rss>
