@@ -6,7 +6,7 @@ draft = false
 
 **Bio/Summary**
 
-My name is Daniel Jennings. I engage in *quantitative and organizational work* that *helps people to solve their problems.*
+My name is Daniel Jennings. I engage in quantitative and organizational work that helps people to solve their problems.
 
 I am a competent worker who believes in rigorous analysis to ease and automate any process.
 I have a passion for science, art, music, culture and travel. I am always learning, and I love a good problem-solving challenge. While I am currently working to attain credentials in Data Science and Computational Science, I ultimately wish to synthesize my passions in my career.
