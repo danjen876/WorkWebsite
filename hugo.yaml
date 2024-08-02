@@ -170,7 +170,7 @@ params:
       I am best suited to quantitative and organizational roles.
     skills:
       enable: true
-      title: "Here are a few langauges I've been working with recently:"
+      title: "Here are a few technologies I've been working with recently:"
       items:
         - "Python (preferred)"
         - "R"
@@ -185,7 +185,7 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Experience"
     items:
       - job: "Climate Modeller/Python Developer"
         company: "CSGM 2022"
@@ -196,12 +196,12 @@ params:
           name: "View the project"
           url: "https://theclient.app/"
         info:
-          enable: false
+          enable: true
           content: "I have been working at this position for almost 2 years."
         content: |- 
-        "Centralization of several climate tools in a central web platform, as well as the creation and reconfiguration of all climate tools involved. 
-        Participation in the creation of the web platform from the inception of the concept to the web development and sending to server. 
-        Visualization of all tools involved."
+          Centralization of several climate tools in a central web platform, as well as the creation and reconfiguration of all climate tools involved. 
+          Participation in the creation of the web platform from the inception of the concept to the web development and sending to server. 
+          Visualization of all tools involved.
 
       - job: "Climate Machine Learning Intern"
         company: "CIMH"
@@ -218,7 +218,6 @@ params:
           Engaged with Machine Learning frameworks such as Convolutional Neural Networks, and libraries such as Tensorflow.
           Learned and took a course on the ethical use of Artificial Intelligence in environmental spaces."
 
-
       - job: "Agricultural Data Analyst"
         company: "CSGM 2021"
         companyUrl: "https://www.mona.uwi.edu/physics/csgm/home"
@@ -226,14 +225,13 @@ params:
         info:
           enable: false
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |-
           "I was a data analyst for an agricultural crop modelling software using SCRUM processes.
           I created user and developer documentation for the software. 
           I automated file handling and data conversion between the software using Python. I performed manual and automatic data testing of the software. I logged and added climate data from 30 weather stations across 9 parishes in Jamaica.
           For another project, I created a product backlog for a research grant software. I created a web crawler and a database for automatic data scraping from a set of designated websites."
-
 
       - job: "Data Analyst/Data Entry Clerk"
         company: "CSGM 2020"
@@ -277,7 +275,6 @@ params:
           "I reconfigured the layout of the University of the West Indies Faculty webpage.
           I also designed posters for and helped to coordinate upcoming faculty events."
 
-
       - job: "Curriciulum Design Assistant"
         company: "Dept of Computing"
         companyUrl: "https://www.mona.uwi.edu/fst/"
@@ -309,71 +306,108 @@ params:
   # Education
   education:
     enable: true
-    # title: "Custom Name"
+    title: "Education"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "MSc Applied Data Science"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          name: "University of the West Indies, Mona Campus"
+          url: "https://www.mona.uwi.edu"
+        date: "2023 - 2025 (expected)"
+        GPA: TBD (A)
+        
+      - title: "BSc Computer Science, Minor in Energy and Environmental Physics"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "University of the West Indies, Mona Campus"
+          url: "https://www.mona.uwi.edu"
+        date: "2018 - 2021"
+        GPA: "3.4 out of 4.3"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          I was also an [exchange student](https://www.mona.uwi.edu/fst/sites/default/files/fpas/uploads/exchange_summary_for_fst.pdf) at the [University of Guelph](https://www.uoguelph.ca/) in Canada.
 
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - Climate Studies Research Group Mona (2018 - present)
+            - President of the Astronomical Association of the UWI (Aug 2020 - Apr 2021)
+            - Astronomical Association of the UWI (Sept 2018 - Aug 2021)
+            - Animation Club (Sept 2018 - Apr 2020)
+            - Computing Society (Sept 2018  - Aug 2019)
+            - First Year Experience (Sept 2018 - May 2019)
         featuredLink:
           enable: true
-          name: "My academic record"
+          name: "My academic certificate"
           url: "https://example.com"
-      - title: "High School"
+
+      - title: "High School and Advanced Proficiency Diplomas"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+          name: "Campion College"
+          url: "https://campioncollege.com/"
+        date: "2011 - 2018"
+        GPA: "3.9 out of 4.0"
+        content: |-
+          Academic Accomplishments
+            - 12 Grade 1 (A+) for the Caribbean Advanced Proficiency Exam (CAPE) (2017-2018)
+              - Regional Placement for Computer Science Unit 2
+              - National Placements for Applied Mathematics Units 1 and 2
+            - 9 Grade 1 (A) and 1 Grade 2 (B) for the Caribbean Secondary Education Certificate (CSEC) (2016)
+            - 17 Second Honours Awards (2011-2018)
+            - Several-time Magis Award Winner (2012-2018)
+            - Sub-prefect (2015-2016) and Prefect (2017-2018)
+            - 6th Form Block Awards (2017)
+
+          Extracurricular Activities
+            - Steel Orchestra
+              - Steel Orchestra Vice President (2016-2017)
+              - Silver Medalist (2015)
+            - Inter-School Christian Fellowship (ISCF)
+              - ISCF Vice President (2016-2017)
+            - Key Club
+              - Executive Board Member (2017-2018)
+            - Animation Club
+              - Executive Board Member (2017-2018)
+            - Art Club
+            - The Student Voice
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
 
   # Achievements
   achievements:
     enable: true
-    # title: "Custom Name"
+    title: "Achievements/Awards"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-        image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: University of the West Indies Open Scholarship (Awarded)
+        content: Full Scholarship for Academic Curriculum (Sept 2018 - Dec 2021)
+        url: https://www.uwi.edu/openscholarship/
+      - title: Canada's Emerging Leaders of the Americas (ELAP) Scholarship (Awarded)
+        content: Full Scholarship for Exchange Program (Sept 2019 - Dec 2019)
+        url: https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx?lang=eng
+      - title: Certificate from Climatematch Academy
+        content: Certificate - Computational Tools for Climate Science (Aug 2023)
+        url: https://comptools.climatematch.io/tutorials/intro.html#
+      - title: Professor John Lodenquai Prize for Introductory Physics
+        content: Level 1 Physics Award (Mar 2020)
+        url: https://www.mona.uwi.edu/physics/honours-and-awards
+      - title: Dean's Honour Roll for Level 1 Students
+        content: Honour Roll Award (Mar 2020)
+      - title: ACM Competition National Winning Team
+        content: Member of the winning national team for the 2018 ACM Competition 
+        url: https://www.rhodeshouse.ox.ac.uk/scholarships/applications/jamaica/
+      - title: Fulbright Scholarship (Shortlisted)
+        content: Shortlisted in Jul 2024
+        url: https://us.fulbrightonline.org/countries/western-hemisphere/jamaica
+      - title: Japanese MEXT Scholarship (Shortlisted)
+        content: Shortlisted in Aug 2023
+        url: https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/
+      - title: Commonwealth Scholarship (Shortlisted)
+        content: Shortlisted in Feb 2023
+        url: https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/
+      - title: Rhodes Scholarship (Shortlisted)
+        content: Shortlisted in Nov 2021
+        url: https://www.rhodeshouse.ox.ac.uk/scholarships/applications/jamaica/
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile

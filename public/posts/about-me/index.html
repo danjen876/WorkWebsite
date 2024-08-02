@@ -241,19 +241,12 @@ About Me | Daniel Jennings
                     
 
                     
-                    <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/#projects"
-                            aria-label="projects">
-                            Projects
-                        </a>
-                    </li>
-                    
 
                     
                     <li class="nav-item navbar-text">
                         <a class="nav-link" href="/#achievements"
                             aria-label="achievements">
-                            Achievements
+                            Achievements/Awards
                         </a>
                     </li>
                     
@@ -344,7 +337,7 @@ About Me | Daniel Jennings
           
           <article class="page-content  p-2">
           <p><strong>Bio/Summary</strong></p>
-<p>My name is Daniel Jennings. I engage in <em>quantitative and organizational work</em> that <em>helps people to solve their problems.</em></p>
+<p>My name is Daniel Jennings. I engage in quantitative and organizational work that helps people to solve their problems.</p>
 <p>I am a competent worker who believes in rigorous analysis to ease and automate any process.
 I have a passion for science, art, music, culture and travel. I am always learning, and I love a good problem-solving challenge. While I am currently working to attain credentials in Data Science and Computational Science, I ultimately wish to synthesize my passions in my career.</p>
 <p><strong>Contact Information</strong></p>
@@ -579,14 +572,10 @@ I have a passion for science, art, music, culture and travel. I am always learni
 </div>
 </footer><script src="/bootstrap-5/js/bootstrap.bundle.min.js"></script>
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
+    if (document.body.className.includes("light")) {
         document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
+        localStorage.setItem("pref-theme", 'dark');
     }
-
 </script>
 <script>
     document.getElementById("theme-toggle").addEventListener("click", () => {
