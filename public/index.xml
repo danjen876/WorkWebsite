@@ -6,14 +6,21 @@
     <description>Recent content on Daniel Jennings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 16:49:12 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 23:03:17 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other Work</title>
+      <link>http://localhost:1313/posts/other-work/</link>
+      <pubDate>Fri, 02 Aug 2024 23:03:17 -0500</pubDate>
+      <guid>http://localhost:1313/posts/other-work/</guid>
+      <description>Volunteer Work&#xA;Personal Tutor for Mathematics (2019 - 2024) Participant in the Climate Research Group Mona Climate Attribution and Modelling Workshop (June 2024) Assistant for Course Training in Discipleship and Ministry Programme - Artificial Intelligence and You (June 2024) Contribution to this platform, which is an outdated version of the work I currently do. (May 2021 - Dec 2021) Contribution to this paper, providing data visualizations. (May 2021 - Dec 2021) Lab Demonstrator at UWI Physics department For Dinthill Technical High School (Feb 2020) For Wolmer&amp;rsquo;s Boys High School (Feb 2019) Mentor for FortesHacks, Campion College&amp;rsquo;s first Hackathon (Jan 2020) Personal Tutor for Computer Science (Mar 2019 - May 2019) Volunteer for UWI Research Day (Mar 2019) Miscellaneous Work</description>
+    </item>
     <item>
       <title>Work Personality</title>
       <link>http://localhost:1313/posts/work-personality/</link>
       <pubDate>Thu, 01 Aug 2024 16:49:12 -0500</pubDate>
       <guid>http://localhost:1313/posts/work-personality/</guid>
-      <description>Work Personality Profile&#xA;Tests and Strengths&#xA;Myers Briggs - ISTP Prefers explicit and practical advice and conversation Detail-oriented HEXACO Honesty-Humility - High Emotionality - Medium Extraversion - Medium Agreeableness - High Conscientiousness - High Openness - High Leadership Style - Democratic Focuses on building strengths and gaining consensus Good with constructive criticism Clifton StrengthsFinder - Strategic Thinking Absorbing and analyzing information for optimal team decisions Chronotype - Dolphin Best work between 9am-1pm Needs structured environments Multi-potentialite Interdisciplinary, curious and cognitively flexible Prefers learning environment Weaknesses</description>
+      <description>Work Personality Profile&#xA;Tests and Strengths&#xA;Myers Briggs - ISTP Prefers explicit and practical advice and conversation Detail-oriented HEXACO Honesty-Humility - High Emotionality - Medium Extraversion - Medium Agreeableness - High Conscientiousness - High Openness - High Leadership Style - Democratic Focuses on building strengths and gaining consensus Good with constructive criticism Clifton StrengthsFinder - Strategic Thinking Absorbing and analyzing information for optimal team decisions Chronotype - Dolphin Best work between 9am-1pm Prefers structured environments Multi-potentialite Interdisciplinary, curious and cognitively flexible Prefers learning environment Weaknesses</description>
     </item>
     <item>
       <title>Hard Skills</title>
@@ -28,13 +35,6 @@
       <pubDate>Thu, 01 Aug 2024 16:41:37 -0500</pubDate>
       <guid>http://localhost:1313/posts/soft-skills/</guid>
       <description>Problem-solving&#xA;Critical thinking Analysis Lateral thinking/Creativity Logical Reasoning Persistence Observation Brainstorming Planning Goal-setting Evaluation Deductive Reasoning Strategic thinking Work ethic&#xA;Discipline Integrity Responsibility Initiative Self-awareness Commitment Professionalism Organization&#xA;Attention to detail Record keeping Analytical thinking Perceptiveness Proactivity Communication&#xA;Mutual respect Active listening Verbal communication Written communication Constructive feedback Friendliness Awareness Open-mindedness Teamwork&#xA;Conflict management Listening Collaboration Mediation Idea Exchange Cooperation Coordination Encouragement Adaptability&#xA;Flexibility Curiosity Growth Mindset Self-management Optimism Resilience Quick learning Reliability Interpersonal Skills</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/posts/about-me/</link>
-      <pubDate>Thu, 01 Aug 2024 16:08:09 -0500</pubDate>
-      <guid>http://localhost:1313/posts/about-me/</guid>
-      <description>Bio/Summary&#xA;My name is Daniel Jennings. I engage in quantitative and organizational work that helps people to solve their problems.&#xA;I am a competent worker who believes in rigorous analysis to ease and automate any process. I have a passion for science, art, music, culture and travel. I am always learning, and I love a good problem-solving challenge. While I am currently working to attain credentials in Data Science and Computational Science, I ultimately wish to synthesize my passions in my career.</description>
     </item>
   </channel>
 </rss>

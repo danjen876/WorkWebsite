@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-01T16:49:12-05:00</lastmod>
+    <lastmod>2024-08-02T23:03:17-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/other-work/</loc>
+    <lastmod>2024-08-02T23:03:17-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-01T16:49:12-05:00</lastmod>
+    <lastmod>2024-08-02T23:03:17-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/work-personality/</loc>
     <lastmod>2024-08-01T16:49:12-05:00</lastmod>
@@ -16,9 +19,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/soft-skills/</loc>
     <lastmod>2024-08-01T16:41:37-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/about-me/</loc>
-    <lastmod>2024-08-01T16:08:09-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

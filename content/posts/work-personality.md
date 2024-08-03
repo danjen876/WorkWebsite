@@ -24,7 +24,7 @@ draft = false
 	- Absorbing and analyzing information for optimal team decisions
 - Chronotype - Dolphin
 	- Best work between 9am-1pm
-	- Needs structured environments
+	- Prefers structured environments
 - Multi-potentialite
 	- Interdisciplinary, curious and cognitively flexible
 	- Prefers learning environment
