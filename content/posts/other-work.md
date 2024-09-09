@@ -4,7 +4,7 @@ date = 2024-08-02T23:03:17-05:00
 draft = false
 +++
 
-**Volunteer Work**
+## Volunteer Work
 - Personal Tutor for Mathematics (2019 - 2024)
 - Participant in the Climate Research Group Mona Climate Attribution and Modelling Workshop (June 2024)
 - Assistant for Course
@@ -19,7 +19,7 @@ draft = false
 - Volunteer for UWI Research Day (Mar 2019)
 
 
-**Miscellaneous Work**
+## Miscellaneous Work
 - Voice Acting
   - ANANSI THE SPIDER by Jared Hall (2023 - 2024)
     - Best Animated Short Film at the European Short Film Festival

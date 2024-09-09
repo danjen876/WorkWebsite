@@ -4,7 +4,7 @@ date = 2024-08-01T16:41:37-05:00
 draft = false
 +++
 
-**Problem-solving**
+## Problem-solving
 - Critical thinking
 - Analysis
 - Lateral thinking/Creativity
@@ -18,7 +18,7 @@ draft = false
 - Deductive Reasoning
 - Strategic thinking
 
-**Work ethic**
+## Work ethic
 - Discipline
 - Integrity
 - Responsibility
@@ -27,14 +27,14 @@ draft = false
 - Commitment
 - Professionalism
 
-**Organization**
+## Organization
 - Attention to detail
 - Record keeping
 - Analytical thinking
 - Perceptiveness
 - Proactivity
 
-**Communication**
+## Communication
 - Mutual respect
 - Active listening
 - Verbal communication
@@ -44,7 +44,7 @@ draft = false
 - Awareness
 - Open-mindedness
 
-**Teamwork**
+## Teamwork
 - Conflict management
 - Listening
 - Collaboration
@@ -54,7 +54,7 @@ draft = false
 - Coordination
 - Encouragement
 
-**Adaptability**
+## Adaptability
 - Flexibility
 - Curiosity
 - Growth Mindset
@@ -64,7 +64,7 @@ draft = false
 - Quick learning
 - Reliability
 
-**Interpersonal Skills**
+## Interpersonal Skills
 - Empathy
 - Cultural sensitivity
 - Humour
