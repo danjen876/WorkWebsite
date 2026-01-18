@@ -3,11 +3,6 @@ languageCode: "en-us"
 title: "Daniel Jennings"
 theme: hugo-profile
 
-# baseURL = 'https://danieljennings.dev/'
-# languageCode = 'en-us'
-# title = 'Daniel Jennings'
-# theme = 'hugo-profile'
-
 outputs:
   home:
     - "HTML"
@@ -19,8 +14,6 @@ outputs:
 
 Paginate: 3
 enableRobotsTXT: true
-# disqusShortname: your-disqus-shortname
-# googleAnalytics: G-MEASUREMENT_ID
 
 markup:
   goldmark:
@@ -67,8 +60,8 @@ Menus:
 params:
   # title: "Hugo Profile"
   # description: Text about my cool site
-  staticPath: "/WorkWebsite/"  # The path to serve the static files from
-  favicon: "/WorkWebSite/fav.png"
+  # staticPath: "/WorkWebsite/"  # The path to serve the static files from
+  # favicon: "/WorkWebSite/fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -143,7 +136,7 @@ params:
     content: |- 
       A creative data analyst and aspiring polymath. 
       I am passionate about critical thinking, finding patterns and making solutions.
-    image: "/WorkWebSite/danielphoto.jpeg"
+    image: "/danielphoto.jpeg"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
