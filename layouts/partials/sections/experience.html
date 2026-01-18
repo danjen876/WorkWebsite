@@ -33,6 +33,7 @@
                             {{ $companyUrl := .companyUrl }}
                             {{ $firstJobDate := "" }}
                             {{ if .jobs }}
+                                {{ warnf "%v" .jobs }}
                                 {{ $firstJobDate = (index .jobs 0).date }}
                             {{ end }}
                             <div
